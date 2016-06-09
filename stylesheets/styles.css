@@ -322,3 +322,9 @@ footer {
     color:#444;
   }
 }
+
+#notebox {
+  resize:none;
+  width:500px;
+  height:200px;
+}
